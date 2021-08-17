@@ -1,0 +1,5 @@
+/go
+/go*.tar.gz
+/*.exe
+/*.txt
+/*.zip

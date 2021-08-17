@@ -1,0 +1,9 @@
+[submodule "grafana"]
+	path = grafana
+	url = https://github.com/grafana/grafana
+[submodule "loki"]
+	path = loki
+	url = https://github.com/grafana/loki
+[submodule "tempo"]
+	path = tempo
+	url = https://github.com/grafana/tempo
